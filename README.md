@@ -1,2 +1,3 @@
-# CIS-17B-S25_Introduction
-CIS-17B course work
+Adrian Lazaro
+Professor O'Connor
+Scetion #33477
